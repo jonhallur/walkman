@@ -1,0 +1,15 @@
+{
+  "name": "walkman",
+  "version": "1.0.0",
+  "description": "A program to copy CD contents to Walkman MP3 player and remove old CDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-menu": "^1.3.0",
+    "xml2js": "^0.4.17"
+  }
+}
